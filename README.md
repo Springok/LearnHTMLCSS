@@ -1,6 +1,5 @@
 ##LearnHTMLCSS
-HTML, CSS practices<br>
-一些HTML/CSS的練習實作:
+一些HTML/CSS相關的練習實作:
  - Android機器人圖
  - Google首頁clone
  - HTMLforms的練習(Treehouse)
